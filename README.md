@@ -1,8 +1,5 @@
 # editormd 初始化的时候一直打转转
 
-> cnpm i editor.md -S  下载下来后
-> import editor from 'editor.md'  是报错的 - - 
-
 ## Build Setup
 
 ``` bash
